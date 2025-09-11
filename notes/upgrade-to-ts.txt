@@ -1,0 +1,11 @@
+1. src > project
+2. commit
+3. + project/src
+4. move source files from project to project/src
+5. commit
+6. fix pathes
+7. + ts
+  7.1. install dev dependensies
+	7.1.1. npm i --save-dev @types/node
+	7.1.2. ...
+  7.2. + tsconfig

@@ -1,0 +1,15 @@
+{
+  "_id": "j8gD4k",
+  "statuse": 0,
+  "players": [
+    {
+      "id": "aS6urW",
+      "name": "Alisa",
+      "color": "2F0080"
+    }
+  ],
+  "statistics": {
+    "playTime": 3600,
+    "winnerId": "aS6urW"
+  }
+}

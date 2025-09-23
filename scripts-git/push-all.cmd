@@ -1,3 +1,5 @@
+cd ../../
+
 git -C tickettoride-api add .
 git -C tickettoride-api commit -m %1
 git -C tickettoride-api push origin main

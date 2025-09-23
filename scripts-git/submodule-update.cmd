@@ -1,3 +1,5 @@
+cd ../../
+
 git -C tickettoride-api add tickettoride-backend-common
 git -C tickettoride-api commit -m "Submodule update"
 

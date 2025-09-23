@@ -1,3 +1,5 @@
+cd ../../
+
 git -C tickettoride-api -c fetch.parallel=0 -c submodule.fetchJobs=0 fetch --progress "--all" --prune --force --recurse-submodules
 git -C tickettoride-backend-common -c fetch.parallel=0 -c submodule.fetchJobs=0 fetch --progress "--all" --prune --force --recurse-submodules
 git -C tickettoride-game-api -c fetch.parallel=0 -c submodule.fetchJobs=0 fetch --progress "--all" --prune --force --recurse-submodules
